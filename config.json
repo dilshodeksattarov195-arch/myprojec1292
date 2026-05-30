@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenrave",
+        "uuid": 12475552,
+        "checksum": "uj9xext"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
